@@ -1,2 +1,1 @@
-# game-rest-api
-Game rest api
+# Skeleton project for Swagger
