@@ -1,11 +1,11 @@
 runtime: nodejs
 env: flex
 manual_scaling:
-#instances: 1
+  instances: 1
 resources:
-cpu: 1
-memory_gb: 1.7
-disk_size_gb: 10
+  cpu: 1
+  memory_gb: 1.7
+  disk_size_gb: 10
 # [START configuration]
 endpoints_api_service:
 # The following values are to be replaced by information from the output of
