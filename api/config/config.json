@@ -1,10 +1,23 @@
 {
-  "development": {
+    "development": {
     "username": "postgres",
     "password": "admin",
     "database": "Gamesystem",
     "host": "35.222.140.207",
-    "port": 5432,
     "dialect": "postgres"
-  }
+    },
+    "test": {
+        "username": "postgres",
+        "password": "admin",
+        "database": "Gamesystem",
+        "host": "35.222.140.207",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "postgres",
+        "password": "admin",
+        "database": "Gamesystem",
+        "host": "35.222.140.207",
+        "dialect": "postgres"
+    }
 }
