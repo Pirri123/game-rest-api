@@ -32,7 +32,7 @@ paths:
           description: The name of the person to whom to say hello
           required: true
           type: string
-         name: lastname
+        - name: lastname
           in: query
           description: The lastname of the person to whom to say hello
           required: true
